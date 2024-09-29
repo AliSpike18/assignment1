@@ -1,0 +1,19 @@
+/* src/components/Footer.css */
+/**
+ * File name: Footer.js
+ * Student's Name: Ali Qamber Zaidi
+ * Student ID: 301415368
+ * Date: 09/24/24
+ */
+
+ .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
